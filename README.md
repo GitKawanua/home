@@ -1,2 +1,1 @@
-# home
-Git home
+# kawanuadev.github.io
